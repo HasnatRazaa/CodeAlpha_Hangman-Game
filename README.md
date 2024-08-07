@@ -35,7 +35,7 @@ A simple implementation of the classic Hangman game in Python. Players try to gu
 
 To start the game, run the following command:
 ```bash
-python hangman.py
+python hangman_game.py
 ```
 
 ## Contributing
